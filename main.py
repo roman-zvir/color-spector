@@ -34,7 +34,7 @@ except AttributeError:
     except AttributeError:
         # If neither works, use a minimal color set as last resort
         CSS3_COLORS = [
-          # Basic colors
+            # Basic colors
             ((255, 255, 255), "white"),
             ((0, 0, 0), "black"),
             ((255, 0, 0), "red"),
